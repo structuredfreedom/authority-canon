@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this intellectual property in your research or practice, please cite it as follows."
+title: "Mechanical Mindset & Quantum Pacing"
+type: dataset
+authors:
+  - family-names: Huber
+    given-names: Shawn
+    orcid: "https://orcid.org/your-orcid"
+    affiliation: "The Mental Mechanic"
+version: 1.0.0
+date-released: 2024-07-28
+license: MIT
